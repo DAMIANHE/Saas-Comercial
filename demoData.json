@@ -1,0 +1,18 @@
+[
+  {
+    "id": "inflacion",
+    "nombre": "Inflación",
+    "perspectiva": "Finanzas",
+    "valor_oficial": 89,
+    "valor_real": 101,
+    "peso": 0.06
+  },
+  {
+    "id": "morosidad",
+    "nombre": "Morosidad",
+    "perspectiva": "Finanzas",
+    "valor_oficial": 2.5,
+    "valor_real": 3.4,
+    "peso": 0.05
+  }
+]
